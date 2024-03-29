@@ -1,0 +1,3 @@
+[submodule "Platform.module"]
+	path = Platform.module
+	url = https://github.com/sidneibrianti/Platform.module.git
